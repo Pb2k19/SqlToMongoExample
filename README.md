@@ -1,5 +1,5 @@
 # SQL To Mongo Example
-This .NET 7 console example project demonstrates data migration from Microsoft SQL Server database to MongoDB database.
+This .NET 7 console example project demonstrates data migration from Microsoft SQL Server database to MongoDB database with Dapper and MongoDB C# Driver
 
 ## Libraries:
 * [Dapper](https://github.com/DapperLib/Dapper)
